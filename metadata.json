@@ -1,0 +1,6 @@
+{
+  "name": "AizenEA",
+  "description": "Institutional Grade AI Trading Ecosystem specializing in Smart Money Concepts (SMC), ICT concepts, and real-time market intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
