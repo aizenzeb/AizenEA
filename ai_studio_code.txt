@@ -1,0 +1,5 @@
+# Ensure Gradle wrapper is always tracked and never ignored
+!gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.jar
+!/gradlew
+!/gradlew.bat
