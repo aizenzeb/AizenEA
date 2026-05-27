@@ -1,4 +1,4 @@
-package com.example.data
+package com.example.myapplication
 
 import android.util.Log
 import com.example.BuildConfig
